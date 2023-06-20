@@ -5,5 +5,5 @@ resources:
 - ../../base
 
 images:
-- name: ghcr.io/<username>/demo-app
+- name: ghcr.io/nkannan2@wisc.edu/demo-app
   newTag: latest
